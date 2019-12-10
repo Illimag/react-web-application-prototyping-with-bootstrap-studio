@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/bootstrap_studio_test/my-app/static/css/main.d1b05096.chunk.css",
-    "main.js": "/bootstrap_studio_test/my-app/static/js/main.8c70675a.chunk.js",
-    "main.js.map": "/bootstrap_studio_test/my-app/static/js/main.8c70675a.chunk.js.map",
-    "runtime-main.js": "/bootstrap_studio_test/my-app/static/js/runtime-main.28d76dbb.js",
-    "runtime-main.js.map": "/bootstrap_studio_test/my-app/static/js/runtime-main.28d76dbb.js.map",
-    "static/css/2.17e5ed98.chunk.css": "/bootstrap_studio_test/my-app/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.2d72adec.chunk.js": "/bootstrap_studio_test/my-app/static/js/2.2d72adec.chunk.js",
-    "static/js/2.2d72adec.chunk.js.map": "/bootstrap_studio_test/my-app/static/js/2.2d72adec.chunk.js.map",
-    "index.html": "/bootstrap_studio_test/my-app/index.html",
-    "precache-manifest.a908d2dc4e5aba1367156d0fac509573.js": "/bootstrap_studio_test/my-app/precache-manifest.a908d2dc4e5aba1367156d0fac509573.js",
-    "service-worker.js": "/bootstrap_studio_test/my-app/service-worker.js",
-    "static/css/2.17e5ed98.chunk.css.map": "/bootstrap_studio_test/my-app/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.d1b05096.chunk.css.map": "/bootstrap_studio_test/my-app/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.2d72adec.chunk.js.LICENSE": "/bootstrap_studio_test/my-app/static/js/2.2d72adec.chunk.js.LICENSE"
+    "main.css": "/bootstrap_studio_test/static/css/main.d1b05096.chunk.css",
+    "main.js": "/bootstrap_studio_test/static/js/main.82c26c2b.chunk.js",
+    "main.js.map": "/bootstrap_studio_test/static/js/main.82c26c2b.chunk.js.map",
+    "runtime-main.js": "/bootstrap_studio_test/static/js/runtime-main.e4b1e4ed.js",
+    "runtime-main.js.map": "/bootstrap_studio_test/static/js/runtime-main.e4b1e4ed.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/bootstrap_studio_test/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.2d72adec.chunk.js": "/bootstrap_studio_test/static/js/2.2d72adec.chunk.js",
+    "static/js/2.2d72adec.chunk.js.map": "/bootstrap_studio_test/static/js/2.2d72adec.chunk.js.map",
+    "index.html": "/bootstrap_studio_test/index.html",
+    "precache-manifest.6bb8ff8f3bab109a91af4359c4801e66.js": "/bootstrap_studio_test/precache-manifest.6bb8ff8f3bab109a91af4359c4801e66.js",
+    "service-worker.js": "/bootstrap_studio_test/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/bootstrap_studio_test/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/bootstrap_studio_test/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.2d72adec.chunk.js.LICENSE": "/bootstrap_studio_test/static/js/2.2d72adec.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.28d76dbb.js",
+    "static/js/runtime-main.e4b1e4ed.js",
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.2d72adec.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.8c70675a.chunk.js"
+    "static/js/main.82c26c2b.chunk.js"
   ]
 }
