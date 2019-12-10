@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/bootstrap_studio_test/static/css/main.d1b05096.chunk.css",
-    "main.js": "/bootstrap_studio_test/static/js/main.82c26c2b.chunk.js",
-    "main.js.map": "/bootstrap_studio_test/static/js/main.82c26c2b.chunk.js.map",
-    "runtime-main.js": "/bootstrap_studio_test/static/js/runtime-main.e4b1e4ed.js",
-    "runtime-main.js.map": "/bootstrap_studio_test/static/js/runtime-main.e4b1e4ed.js.map",
-    "static/css/2.17e5ed98.chunk.css": "/bootstrap_studio_test/static/css/2.17e5ed98.chunk.css",
-    "static/js/2.2d72adec.chunk.js": "/bootstrap_studio_test/static/js/2.2d72adec.chunk.js",
-    "static/js/2.2d72adec.chunk.js.map": "/bootstrap_studio_test/static/js/2.2d72adec.chunk.js.map",
-    "index.html": "/bootstrap_studio_test/index.html",
-    "precache-manifest.6bb8ff8f3bab109a91af4359c4801e66.js": "/bootstrap_studio_test/precache-manifest.6bb8ff8f3bab109a91af4359c4801e66.js",
-    "service-worker.js": "/bootstrap_studio_test/service-worker.js",
-    "static/css/2.17e5ed98.chunk.css.map": "/bootstrap_studio_test/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.d1b05096.chunk.css.map": "/bootstrap_studio_test/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.2d72adec.chunk.js.LICENSE": "/bootstrap_studio_test/static/js/2.2d72adec.chunk.js.LICENSE"
+    "main.css": "/React-Web-Application-Prototyping-with-Bootstrap-Studio/static/css/main.1a3e4a77.chunk.css",
+    "main.js": "/React-Web-Application-Prototyping-with-Bootstrap-Studio/static/js/main.850670ba.chunk.js",
+    "main.js.map": "/React-Web-Application-Prototyping-with-Bootstrap-Studio/static/js/main.850670ba.chunk.js.map",
+    "runtime-main.js": "/React-Web-Application-Prototyping-with-Bootstrap-Studio/static/js/runtime-main.4af3793e.js",
+    "runtime-main.js.map": "/React-Web-Application-Prototyping-with-Bootstrap-Studio/static/js/runtime-main.4af3793e.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/React-Web-Application-Prototyping-with-Bootstrap-Studio/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.e0cf10b0.chunk.js": "/React-Web-Application-Prototyping-with-Bootstrap-Studio/static/js/2.e0cf10b0.chunk.js",
+    "static/js/2.e0cf10b0.chunk.js.map": "/React-Web-Application-Prototyping-with-Bootstrap-Studio/static/js/2.e0cf10b0.chunk.js.map",
+    "index.html": "/React-Web-Application-Prototyping-with-Bootstrap-Studio/index.html",
+    "precache-manifest.ce5c5882f9fb66dc01fcd377c4cb3c89.js": "/React-Web-Application-Prototyping-with-Bootstrap-Studio/precache-manifest.ce5c5882f9fb66dc01fcd377c4cb3c89.js",
+    "service-worker.js": "/React-Web-Application-Prototyping-with-Bootstrap-Studio/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/React-Web-Application-Prototyping-with-Bootstrap-Studio/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.1a3e4a77.chunk.css.map": "/React-Web-Application-Prototyping-with-Bootstrap-Studio/static/css/main.1a3e4a77.chunk.css.map",
+    "static/js/2.e0cf10b0.chunk.js.LICENSE": "/React-Web-Application-Prototyping-with-Bootstrap-Studio/static/js/2.e0cf10b0.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.e4b1e4ed.js",
+    "static/js/runtime-main.4af3793e.js",
     "static/css/2.17e5ed98.chunk.css",
-    "static/js/2.2d72adec.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.82c26c2b.chunk.js"
+    "static/js/2.e0cf10b0.chunk.js",
+    "static/css/main.1a3e4a77.chunk.css",
+    "static/js/main.850670ba.chunk.js"
   ]
 }
