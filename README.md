@@ -1,6 +1,6 @@
-# Bootstrap Studio Test
+# React Web Application Prototyping with Bootstrap Studio
 
-This is a test case of integrating Bootstrap Studio into a design workflow.
+This is a test case of prototyping a React Web Application with Bootstrap Studio.
 
 https://bootstrapstudio.io/
 
@@ -34,24 +34,24 @@ Now we will be able to export the HTML Templated Code.
 
 This is an example of the exported code
 
-		<header style="background-color: #ff0000;height: 74px;"></header>
-		<main style="background-color: #ffffff;height: 421px;">
-			<section>
-				<div class="container">
-					<div class="row" style="margin: 13px;">
-						<div class="col">
-							<div style="background-color: #26ff02;height: 224px;"></div>
-						</div>
-					</div>
-					<div class="row" style="margin: 67px;">
-						<div class="col">
-							<div style="background-color: #00ff0a;height: 154px;"></div>
-						</div>
+	<header style="background-color: #ff0000;height: 74px;"></header>
+	<main style="background-color: #ffffff;height: 421px;">
+		<section>
+			<div class="container">
+				<div class="row" style="margin: 13px;">
+					<div class="col">
+						<div style="background-color: #26ff02;height: 224px;"></div>
 					</div>
 				</div>
-			</section>
-		</main>
-		<footer style="height: 147px;background-color: #ff0606;"></footer>
+				<div class="row" style="margin: 67px;">
+					<div class="col">
+						<div style="background-color: #00ff0a;height: 154px;"></div>
+					</div>
+				</div>
+			</div>
+		</section>
+	</main>
+	<footer style="height: 147px;background-color: #ff0606;"></footer>
 
 ## Create React Application
 
@@ -295,8 +295,8 @@ Add homepage line in package.json
 
 Add these lines in scripts
 
-   "predeploy": "npm run build",
-   "deploy": "gh-pages -d build",
+	"predeploy": "npm run build",
+	"deploy": "gh-pages -d build",
 
 Run
 
