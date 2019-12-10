@@ -291,7 +291,7 @@ Install gh-pages
 
 Add homepage line in package.json
 
-	"homepage": "https://jaemnkm.com/bootstrap_studio_test",
+	"homepage": "https://jaemnkm.com/React-Web-Application-Prototyping-with-Bootstrap-Studio",
 
 Add these lines in scripts
 
@@ -308,4 +308,4 @@ Designing User Interfaces using this method, allows for Designs that have real l
 
 # Live Site
 
-https://jaemnkm.com/bootstrap_studio_test/
+https://jaemnkm.com/React-Web-Application-Prototyping-with-Bootstrap-Studio

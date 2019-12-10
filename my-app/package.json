@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jaemnkm.com/bootstrap_studio_test",
+  "homepage": "https://jaemnkm.com/React-Web-Application-Prototyping-with-Bootstrap-Studio",
   "dependencies": {
     "bootstrap": "^4.4.1",
     "cra-template": "1.0.0",
