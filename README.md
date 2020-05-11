@@ -306,6 +306,3 @@ Run
 
 Designing User Interfaces using this method, allows for Designs that have real life application based on Industry Standards, as well as development of a User Interface Design Prototype built using sophisticated and UpToDate technologies.
 
-# Live Site
-
-https://jaemnkm.com/React-Web-Application-Prototyping-with-Bootstrap-Studio
